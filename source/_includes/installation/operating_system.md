@@ -203,17 +203,19 @@ Use this method only if Method 1 does not work for you.
 5. Paste the URL into your browser to start the download.
 6. Select **Flash from file** and select the image you just downloaded.
    - Do not use **Flash from URL**. It does not work on some systems.
-
   ![Screenshot of the Etcher software showing flash from URL selected.](/images/installation/etcher1_file.png)
-7. **Select target**.
-![Screenshot of the Etcher software showing the select target button highlighted.](/images/installation/etcher3.png)
+
+7. **Select target**
+   ![Screenshot of the Etcher software showing the select target button highlighted.](/images/installation/etcher3.png)
+
 8. Select the boot medium ({{site.installation.types[page.installation_type].installation_media}}) you want to use for your installation.
-![Screenshot of the Etcher software showing the targets available.](/images/installation/etcher4.png)
+   ![Screenshot of the Etcher software showing the targets available.](/images/installation/etcher4.png)
+
 9. Select **Flash!** to start writing the image.
    - If the operation fails, decompress the .xz file and try again.
-![Screenshot of the Etcher software showing the Flash button highlighted.](/images/installation/etcher5.png)
-1.  When Balena Etcher has finished writing the image, you will see a confirmation.
-![Screenshot of the Etcher software showing that the installation has completed.](/images/installation/etcher6.png)
+   ![Screenshot of the Etcher software showing the Flash button highlighted.](/images/installation/etcher5.png)
+   1.  When Balena Etcher has finished writing the image, you will see a confirmation.
+   ![Screenshot of the Etcher software showing that the installation has completed.](/images/installation/etcher6.png)
 
 ### Start up your {{site.installation.types[page.installation_type].board}}
 
